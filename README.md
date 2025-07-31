@@ -2,7 +2,7 @@
 on my second day of learning coding with HTML and CSS
 
 ## Live Site
-[See live on netlify] - 
+[See live on netlify] - https://tribute-pages-1.netlify.app/
 
 ## Features
 Decent Mobile compatibility.
